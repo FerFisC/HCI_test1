@@ -25,3 +25,4 @@ public class ArraySum {
       System.out.println("Average " + sumVal / NUM_ELEMENTS);
    }
 }
+#editing file for HCI testing 
